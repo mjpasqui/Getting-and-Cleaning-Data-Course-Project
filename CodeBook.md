@@ -46,4 +46,4 @@ The following transformations were performed.
 3) the subjects, activity, x, and other variable data frames were then merged for both the test and training data sets.
 4) a new column named data_set was then created to differentiate if the subject was in either the training or test data sets.
 5) these two data sets were then merged together
-6) a summary data set was then created to see the average of each variable in terms of each subject and activity combination
+6) a summary data set was then created to see the average of each variable in terms of each subject and activity combination.

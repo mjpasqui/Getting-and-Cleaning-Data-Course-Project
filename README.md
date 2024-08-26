@@ -81,4 +81,4 @@ of the data creating the mean for the 128 measures
 ### sd_df:
 
 this function takes the variable data frames and loops through each row
-of the data creating the sd for the 128 measures
+of the data creating the sd for the 128 measures 
